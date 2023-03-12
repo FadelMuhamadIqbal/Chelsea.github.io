@@ -1,0 +1,321 @@
+body {
+  background-color: white;
+  font-family: "Assistant", sans-serif;
+  color: #071c4d;
+}
+
+.container-fluid img {
+  max-height: 40px;
+}
+.container-fluid .navbar-collapse .navbar-nav .nav-item .nav-link {
+  color: #071c4d;
+}
+.container-fluid .navbar-collapse .navbar-nav .nav-item .nav-link.active {
+  font-weight: bold;
+  color: #071c4d !important;
+}
+
+.btn btn-primary {
+  margin-top: -8px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+  height: 70px;
+  border-radius: 0;
+}
+
+.btn {
+  background-color: #071c4d;
+  color: white;
+}
+.btn:hover {
+  background-color: #1e3771;
+  color: white;
+}
+
+header {
+  padding: 180px 0 165px;
+  margin-top: -70px;
+  margin-left: -120px;
+  margin-right: -120px;
+  background-image: url(../Aseet/Header.jpg);
+  background-size: cover;
+}
+
+H1 {
+  color: white;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.Paragraf {
+  font-family: "Playfair Display", serif;
+  color: white;
+  font-size: 22px;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+
+.stats-details {
+  padding-top: 18px;
+  background-color: white;
+  padding-left: 40px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.section-popular {
+  min-height: 540px;
+  background-color: #051334;
+  margin-top: -50px;
+  margin-bottom: -230px;
+  margin-left: -120px;
+  margin-right: -120px;
+}
+
+.section-ppular-heading {
+  margin-top: 150px;
+}
+
+.text-popular {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+}
+
+.Paragraf-popular {
+  font-size: 18px;
+  color: white;
+}
+
+.section-popular-content .section-popular-travel .card-travel {
+  min-height: 380px;
+  background-color: #000;
+  color: white;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+.section-popular-content .section-popular-travel .travel-countries {
+  font-size: 18px;
+  color: white;
+}
+.section-popular-content .section-popular-travel .travel-location {
+  font-size: 26px;
+  color: white;
+}
+.section-popular-content .section-popular-travel .travel-button .btn-travel-details {
+  background-color: #ff9e53;
+  color: white;
+}
+
+.section-network {
+  background-color: white;
+  margin-top: -120px;
+  padding-top: 240px;
+  padding-bottom: 50px;
+}
+
+.text-network {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+}
+
+.paragraf-network {
+  font-size: 18px;
+}
+
+img {
+  margin-right: 10px;
+  margin-left: 15px;
+}
+
+.text-testi {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.Paragraf-test {
+  font-size: 18px;
+}
+
+.section-popular-testimonial-conten {
+  margin-top: -300px;
+  padding-bottom: 50px;
+}
+
+.card-testimonial {
+  padding: 40px 20px 10px;
+  border-radius: 11px;
+  margin-bottom: 20px;
+  background-color: #F0F8FF;
+}
+
+.testimonial-content {
+  min-height: 380px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.paragraf-testi {
+  font-weight: 200;
+  font-size: 26px;
+  color: #6e6e6e;
+}
+
+.trip-to {
+  font-weight: normal;
+  font-size: 22px;
+  color: #6e6e6e;
+}
+
+hr {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.btn-get-start {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #ff9e53;
+  color: white;
+}
+
+.btn-need-help {
+  background-color: #fafafa;
+  color: #c3c3c3;
+}
+
+.section-footer a {
+  font-family: "Playfair Display", serif;
+  color: #071c4d;
+}
+
+.section-details-header {
+  min-height: 310px;
+  background-color: #e4e6eb;
+  margin-top: -70px;
+  margin-left: -120px;
+  margin-right: -120px;
+}
+
+.section-detail-content {
+  margin-top: -210px;
+  min-height: 100vh;
+}
+.section-detail-content .breadcrumb {
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 30px;
+}
+.section-detail-content .breadcrumb-item.active {
+  font-weight: bold;
+  color: #071c4d;
+}
+
+.card-details {
+  padding: 30px;
+  border-radius: 11px;
+}
+.card-details h1 {
+  font-size: 30px;
+  color: #071c4d;
+}
+.card-details h2 {
+  font-size: 20px;
+}
+.card-details p {
+  font-size: 18x;
+  color: #b1b1b1;
+}
+
+.features {
+  margin-top: 20px;
+}
+.features h3 {
+  font-size: 18px;
+  color: #071c4d;
+  margin-bottom: 0;
+}
+.features p {
+  margin-bottom: 0;
+}
+.features .descripsi {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+.features .features-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.gallery .xzoom-container {
+  display: block;
+}
+.gallery .xzoom-container .xzoom {
+  width: 100%;
+  box-shadow: none;
+  margin-bottom: 10px;
+}
+.gallery .xzoom-container .xactive {
+  border: 4px solid #1abc9c;
+  box-shadow: none;
+}
+
+.join-container {
+  margin-left: 125px;
+  margin-top: -5px;
+}
+
+.btn-join-now {
+  padding-top: 50px;
+  background-color: #ff9e53;
+  color: white;
+  border-radius: none;
+}
+.btn-join-now:hover {
+  background-color: #ff9e53;
+  color: white;
+}
+
+.card-right {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: 0;
+}
+
+.members {
+  margin-right: 1;
+}
+.members .member-image {
+  width: 40px;
+  height: 40px;
+}
+
+.form-control {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.navbar .text-muted {
+  margin-right: 25em;
+  color: #6c757d !important;
+}/*# sourceMappingURL=main.css.map */
